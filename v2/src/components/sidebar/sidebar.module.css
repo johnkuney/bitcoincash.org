@@ -8,13 +8,25 @@
   padding: 20px 10px;
 }
 
+.card a,
+.card a:visited,
+.card a:active {
+  display: flex;
+  color: #444;
+  transition: all 300ms;
+}
+
+.card a:hover {
+  transform: scale(1.04);
+}
+
 .cardIcon {
   text-align: center;
 }
 
 .cardIcon svg {
-  fill: #f7941c;
-  stroke: #f7941c;
+  fill: #ff8d00;
+  stroke: #ff8d00;
   width: 100%;
   max-width: 50px;
 }
@@ -47,4 +59,13 @@
   padding: 0;
   line-height: 1.2em;
   font-size: 16px;
+}
+
+.cardIconText a,
+.cardIconText a:visited {
+  color: #ff8d00;
+}
+
+.cardIconText a:hover {
+  text-decoration: underline;
 }

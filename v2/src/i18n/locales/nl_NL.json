@@ -207,28 +207,28 @@
     "cfce7f318ae20404ef612bf056dba732": {
       "translations": [
         {
-          "translation": "Reminder: November 15th, 2020 Planned Network Upgrade"
+          "translation": "Herinnering:  Geplande Netwerk-Upgrade 15 November 2020"
         }
       ]
     },
     "ff7e316c73d0dfcd7d0d32a8339e1efc": {
       "translations": [
         {
-          "translation": "November 15th, 2020 Planned Network Upgrade"
+          "translation": "Geplande Netwerk-Upgrade 15 November 2020"
         }
       ]
     },
     "60fc904396840c992f474ecda2da39ca": {
       "translations": [
         {
-          "translation": "The Bitcoin Cash network will undergo a protocol upgrade as per the roadmap. Businesses and individuals who use the Bitcoin Cash network should check to ensure that their software is compatible with the upgrade."
+          "translation": "Het Bitcoin Cash-netwerk zal een protocol-upgrade conform de roadmap ondergaan. Bedrijven en individuen die het Bitcoin Cash-netwerk gebruiken dienen te controleren of hun software compatibel is met de upgrade."
         }
       ]
     },
     "d770c97de5c52bd8109e39c140e62bab": {
       "translations": [
         {
-          "translation": "See Roadmap"
+          "translation": "Bekijk de Roadmap"
         }
       ]
     },
@@ -242,14 +242,14 @@
     "c7953645d1fdc6c8e72e1ad2fe573a5f": {
       "translations": [
         {
-          "translation": "Compatible Implementations:"
+          "translation": "Compatibele Implementaties:"
         }
       ]
     },
     "4b0b3d5f8d03531c1cfe320e2883e0fd": {
       "translations": [
         {
-          "translation": "Additional Information:"
+          "translation": "Verdere Informatie:"
         }
       ]
     },
@@ -270,7 +270,7 @@
     "657e00afe7a9a198d37ecf94de9045b9": {
       "translations": [
         {
-          "translation": "word vermeld"
+          "translation": "Wordt Vermeld"
         }
       ]
     },
@@ -400,6 +400,328 @@
         }
       ]
     },
+    "af628dc79f6691cc1586247dad63e5aa": {
+      "translations": [
+        {
+          "translation": "Bitcoin Cash Betalingssystemen"
+        }
+      ]
+    },
+    "515b07a736581e3adebaeca21b03d6b5": {
+      "translations": [
+        {
+          "translation": "Accepteer Bitcoin Cash als betalingsmethode met behulp van vertrouwde externe betalingssystemen."
+        }
+      ]
+    },
+    "0fb809663df85f4b316cebb3629c4a99": {
+      "translations": [
+        {
+          "translation": "Bitcoin Cash integreren in Wordpress"
+        }
+      ]
+    },
+    "6f261976607f8924861f751eee0ba621": {
+      "translations": [
+        {
+          "translation": "Accepteer Bitcoin Cash donaties voor publicaties of integreer het in je Wordpress e-commerce platform."
+        }
+      ]
+    },
+    "c683f92b550235be638ade07679e48e1": {
+      "translations": [
+        {
+          "translation": "Point Of Sales"
+        }
+      ]
+    },
+    "f82e2dc2e16d56016c303a5c3b20568f": {
+      "translations": [
+        {
+          "translation": "Probeer één van de vele Point Of Sale (POS) systemen om Bitcoin Cash te aanvaarden als betaalmiddel in jouw winkel."
+        }
+      ]
+    },
+    "c35657c89197e0ac4fac4c6e4a81e428": {
+      "translations": [
+        {
+          "translation": "Accepteer Donaties of Fooien"
+        }
+      ]
+    },
+    "94b673455fb4d40692c6405ac8baac96": {
+      "translations": [
+        {
+          "translation": "Non-profit organisaties halen voordeel uit de extreem lage transactiekosten wanneer ze Bitcoin Cash donaties ontvangen."
+        }
+      ]
+    },
+    "6066503799cce63c9d917321fa976676": {
+      "translations": [
+        {
+          "translation": "Hoe kan mijn bedrijf Bitcoin Cash gebruiken?"
+        }
+      ]
+    },
+    "bd5e4e095c8597658a4da3852f708bb5": {
+      "translations": [
+        {
+          "translation": "Accepteer Bitcoin Cash"
+        }
+      ]
+    },
+    "6bb5f8c640b64c0c0be50526d4779fb1": {
+      "translations": [
+        {
+          "translation": "Als een handelszaak is het een van je belangrijkste doelen om betaling zo snel mogelijk en frictieloos te accepteren en verwerken als mogelijk, zo ben je klantvriendelijk en ontvang je betalingen zonder kopzorgen. Bitcoin Cash is de oplossing, want het heeft snelle en lage kost transacties. Terwijl de wereld digitaliseert,electronische valuta zoals Bitcoin Cash zijn de go-to methode aan het worden voor online en in retailwinkels. Ontvang Bitcoin Cash eenvoudig en rechtstreeks of gebruik een provider als derde partij om Bitcoin Cash te ontvangen via hun platform. Zo'n providers maken het zeer eenvoudig Bitcoin Cash te ontvangen met hun platformen. Wanneer je je registreerd voor handelsoplossingen van derden zoals BitPay, zet je simpelweg je account op zodat je Bicoin Cash kan ontvangen en laat je het verder zenden naar je egen protemonnee of kan je Bitcoin Cash converteren naar je lokale fiateenheid. De meeste handelszaken voeren een splitsing uit, waarbij een deel van verkopen zijn omgezet naar fiat en een deel behouden blijft in crypto.Hoe dan ook, door het opzetten van een handelsoplossingsapplicatie kan je Bitcoin Cash-betalingen vandaag accepteren zonder zorgen te moeten maken over de complexiteiten."
+        }
+      ]
+    },
+    "60b71435a466bbacb718ab4d64221ffb": {
+      "translations": [
+        {
+          "translation": "Hoe kan ik Bitcoin Cash accepteren"
+        }
+      ]
+    },
+    "f537ed3014650f05a3141b9a1c65ee1e": {
+      "translations": [
+        {
+          "translation": "Op een Wisselbeurs Kopen"
+        }
+      ]
+    },
+    "1419e05c21231ca8536d6d2ba88434e7": {
+      "translations": [
+        {
+          "translation": "Send fiat to a trusted 3rd party exchange and purchase Bitcoin Cash."
+        }
+      ]
+    },
+    "946b7f71c084f038de0f64f6e942500c": {
+      "translations": [
+        {
+          "translation": "Een Bitcoin Cash Faucet Gebruiken"
+        }
+      ]
+    },
+    "c32d07c9f1ec7e029145acba7847810d": {
+      "translations": [
+        {
+          "translation": "Use a trusted {=Bitcoin Cash faucet} to receive a tiny amount of Bitcoin Cash for free!"
+        }
+      ]
+    },
+    "cda264ce502bf19e3c87800b415f9aa9": {
+      "translations": [
+        {
+          "translation": "Bitcoin Cash faucet"
+        }
+      ]
+    },
+    "3e6f9417b6a5be2631b3a0f556c13400": {
+      "translations": [
+        {
+          "translation": "Koop in een App"
+        }
+      ]
+    },
+    "fd8c42fbfa37cf603ea8e8d1373d4cb7": {
+      "translations": [
+        {
+          "translation": "Gebruik een app van een betrouwbare derde partij die Bitcoin Cash verkoopt met creditcard betaling."
+        }
+      ]
+    },
+    "b5321ec2e671b07dc291a915c0f8b5b9": {
+      "translations": [
+        {
+          "translation": "Koop bij een Bitcoin Cash PIN-automaat"
+        }
+      ]
+    },
+    "48e09dead605d913993faf1087c33d3b": {
+      "translations": [
+        {
+          "translation": "In vele steden rond de wereld zijn gespecialiseerde voor Bitcoin Cash geschikte PIN-Automaten geplaatst. "
+        }
+      ]
+    },
+    "d0ad6dc2ab651537723b959bac4f304b": {
+      "translations": [
+        {
+          "translation": "Verdien Bitcoin Cash Online"
+        }
+      ]
+    },
+    "6054437c3668b07a834dc86969cf86ce": {
+      "translations": [
+        {
+          "translation": "Participate on censorship resistant social media platforms like {=Memo.cash}."
+        }
+      ]
+    },
+    "55f273c5a8d86eb747161961fffafbe6": {
+      "translations": [
+        {
+          "translation": "Memo.cash"
+        }
+      ]
+    },
+    "9918a68b339e663705a987418e79c911": {
+      "translations": [
+        {
+          "translation": "Koop in Persoon"
+        }
+      ]
+    },
+    "578e1c24c06339241dd1f563459cdc38": {
+      "translations": [
+        {
+          "translation": "Connect with locals in your area who are selling Bitcoin Cash on {=Bitcoin.com Local} or {=LocalBitcoinCash.org}."
+        }
+      ]
+    },
+    "8f6a34e4e79b161e1cb2df8456865e7a": {
+      "translations": [
+        {
+          "translation": "Bitcoin.com Local"
+        }
+      ]
+    },
+    "492a45a6c0f304b65954242800998b1b": {
+      "translations": [
+        {
+          "translation": "LocalBitcoinCash.org"
+        }
+      ]
+    },
+    "7bca5f561da7058a2446053e3757a05b": {
+      "translations": [
+        {
+          "translation": "Accept Bitcoin Cash at your Business"
+        }
+      ]
+    },
+    "7141839018849626169161d6569e181c": {
+      "translations": [
+        {
+          "translation": "Add Bitcoin Cash as a payment method to your store with the {=Bitcoin Cash Register}. Sell items online or in person for Bitcoin Cash."
+        }
+      ]
+    },
+    "dd0178697fea3f95cdf0bd9ca0fec8a8": {
+      "translations": [
+        {
+          "translation": "Bitcoin Cash Register"
+        }
+      ]
+    },
+    "20a138f2e25ac2165f861890316a0010": {
+      "translations": [
+        {
+          "translation": "Vraag om betaald te worden in Bitcoin Cash"
+        }
+      ]
+    },
+    "7bda0a55ca7995abf7df27cfc48fba5e": {
+      "translations": [
+        {
+          "translation": "Doe navraag bij je job over gedeeltelijk of volledige uitbetaling in Bitcoin Cash."
+        }
+      ]
+    },
+    "2cfcc5a7f9bcff424fc9b19fa98364a8": {
+      "translations": [
+        {
+          "translation": "Hoe verkrijg ik Bitcoin Cash"
+        }
+      ]
+    },
+    "3039f47c3861beec0825d81ceee8c820": {
+      "translations": [
+        {
+          "translation": "Koop of Verdien Bitcoin Cash"
+        }
+      ]
+    },
+    "9e3e4814a10e465c3e2fd236e96dd1ac": {
+      "translations": [
+        {
+          "translation": "De twee gemakkelijkste manieren om Bitcoin Cash te verkrijgen is om het te kopen of ervoor te werken. Het kopen van Bitcoin Cash is de meest gebruikte en meest handige manier. Alles wat je hoeft te doen is registreren voor een Bitcoin wisselbeurs en geld storten zodat je dit kan omzetten naar Bitcoin Cash. De wisselbeurs zal je de Bitcoin Cash zenden nadat de omzetting voltooid is. De andere optie is het verdienen van Bitcoin Cash door ervoor te werken, je kan bijvoorbeeld een baan vinden op een vacaturebank die betaalt in Bitcoin Cash of het creëren van een eigen service (zoals Tshirts verkopen) en zo Bitcoin Cash verdienen."
+        }
+      ]
+    },
+    "bcbcf60faa6551cde4df015110ba931d": {
+      "translations": [
+        {
+          "translation": "Waar kan ik in de buurt Bitcoin Cash vinden?"
+        }
+      ]
+    },
+    "4fe3626b7a5a84066dc77dc4b0bc6724": {
+      "translations": [
+        {
+          "translation": "In many cities there is a market of Over The Counter (OTC) traders who trade fiat (such as USD, Yen, Euro, etc) for Bitcoin Cash. Or consider asking your employer if they would be willing to be at the forefront of the future of money and offer partial or complete payment in Bitcoin Cash. Some larger cities are also equipped with a Bitcoin Cash enabled ATM machine which make it very easy to trade in fiat for Bitcoin Cash. Ask at your nearest {=Bitcoin Cash Meetup} about other options, or consider visiting restaurants in your city where you can {=spend Bitcoin Cash} and enquire there."
+        }
+      ]
+    },
+    "d19057e75b57b87372167e8b3060d0b0": {
+      "translations": [
+        {
+          "translation": "Bitcoin Cash Meetup"
+        }
+      ]
+    },
+    "38445241b155405218c4a57740299045": {
+      "translations": [
+        {
+          "translation": "spend Bitcoin Cash"
+        }
+      ]
+    },
+    "9c21db44d680bc24b4cc2626bc7fa6d1": {
+      "translations": [
+        {
+          "translation": "Kan ik Bitcoin Cash online kopen?"
+        }
+      ]
+    },
+    "d8e0edb9fb1d10c788250d72528da332": {
+      "translations": [
+        {
+          "translation": "Het online kopen van Bitcoin Cash is de meest populaire manier om Bitcoin Cash te verkrijgen. Online valutamarkten  die lokale valuta en cryptovaluta kopen en verkopen staan je toe banktransfers te doen om zo om te zetten naar Bitcoin Cash. Sommige aanvraarden zelf creditcards voor onmiddelijke aankoop. Zoals bij elke online aankoop, zoek zelf een betrouwbaar platform en verzeker dat je je eigen portemonnee hebt. We raden het niet aan om Bitcoin Cash op valutamarkten te laten staan. Je zou altijd je Bitcoin Cash moeten bewaren in je eigen portemonnee waarvan een veilige back-up is gemaakt."
+        }
+      ]
+    },
+    "e3f34224a984c5401b8ea0ee050da8df": {
+      "translations": [
+        {
+          "translation": "Waar kan ik Bitcoin Cash krijgen?"
+        }
+      ]
+    },
+    "03fe2735053d17e8d3f29270870f5a0e": {
+      "translations": [
+        {
+          "translation": "Featured Exchanges"
+        }
+      ]
+    },
+    "4837a19183ddf0da2f82270761af7e80": {
+      "translations": [
+        {
+          "translation": "Valutamarkten"
+        }
+      ]
+    },
+    "8ab51c66ad74ae76e00f84af22cb69b6": {
+      "translations": [
+        {
+          "translation": "Micro-economie"
+        }
+      ]
+    },
     "bc2a94069c0682096a036ae4bfe47966": {
       "translations": [
         {
@@ -508,35 +830,35 @@
     "320884bf7d995a7c5f6ed2b50f3280b5": {
       "translations": [
         {
-          "translation": "Leer alles over Bitcoin Cash"
+          "translation": "Leer alles over Bitcoin Cash"
         }
       ]
     },
     "0f429e8d8d54f67ce44b262f7d9b3eb4": {
       "translations": [
         {
-          "translation": "Learn more"
+          "translation": "Meer informatie"
         }
       ]
     },
     "dd2b6abb6a05f8ea0cb87c2f48bdd502": {
       "translations": [
         {
-          "translation": "Eenvoudige manieren om Bitcoin Cash te kopen"
+          "translation": "Eenvoudige manieren om Bitcoin Cash te kopen"
         }
       ]
     },
     "677ea18ec8c7f2e5a0e4698cb6b7a17f": {
       "translations": [
         {
-          "translation": "Waar je Bitcoin Cash kan kopen"
+          "translation": "Waar je Bitcoin Cash kan kopen"
         }
       ]
     },
     "ae7690a0d139cdb70a3a17affefb6326": {
       "translations": [
         {
-          "translation": "Meld je aan voor Bitcoin Cash news, gidsen en meer."
+          "translation": "Meld je aan voor Bitcoin Cash nieuws, gidsen en meer."
         }
       ]
     },
@@ -837,28 +1159,28 @@
     "db0474a08f0ea607a9dce3710b680bae": {
       "translations": [
         {
-          "translation": "De Bitcoin Cash Roadmap"
+          "translation": "De Bitcoin Cash Roadmap"
         }
       ]
     },
     "b1841b456ae95d47de5ecdb526454689": {
       "translations": [
         {
-          "translation": "Het doel van Bitcoin Cash is om gezond geld te worden dat bruikbaar is voor iedereen in de wereld. Dit is een beschaving veranderende technologie die de menselijke vrijheid en welvaart drastisch zal vergroten."
+          "translation": "Het doel van Bitcoin Cash is om gezond geld te worden dat bruikbaar is voor iedereen in de wereld. Dit is een beschaving veranderende technologie die de menselijke vrijheid en welvaart drastisch zal vergroten."
         }
       ]
     },
     "dab8f9be958f8dd4ef7a76f7d090bcaa": {
       "translations": [
         {
-          "translation": "Deze roadmap is bedoeld om technische richting op hoger niveau te voorzien en wil verschillende technische teams in staat stellen samen te werken aan een gemeenschappelijk doel ter bevordering van Bitcoin Cash. De rol van ontwikkelaars bij het bevorderen van dit doel is het produceren van professionele software van hoge kwaliteit die de behoeften van zijn gebruikers, mijnwerkers en handelaars dient. We streven naar voortdurende technische verbetering, om betrouwbare producten te produceren die een solide basis bieden voor Bitcoin Cash."
+          "translation": "Deze roadmap is bedoeld om technische richting op hoger niveau te voorzien en wil verschillende technische teams in staat stellen samen te werken aan een gemeenschappelijk doel ter bevordering van Bitcoin Cash. De rol van ontwikkelaars bij het bevorderen van dit doel is het produceren van professionele software van hoge kwaliteit die de behoeften van zijn gebruikers, mijnwerkers en handelaars dient. We streven naar voortdurende technische verbetering, om betrouwbare producten te produceren die een solide basis bieden voor Bitcoin Cash."
         }
       ]
     },
     "edc3324962ef645e29c41016fd5d6233": {
       "translations": [
         {
-          "translation": "Het basisontwerp van Bitcoin Cash is solide. Dit betekend echter niet dat het perfect is. Het is verstandig om kwaliteitsverbeteringen te maken aan het systeem door middel van technisch solide ontwerpen en zorgvuldige ontwikkeling. Door implementatie van optimalisaties en protocol upgrades, zal   peer-to-peer digitaal geld ver voorbij de huidige limieten schalen."
+          "translation": "Het basisontwerp van Bitcoin Cash is solide. Dit betekend echter niet dat het perfect is. Het is verstandig om kwaliteitsverbeteringen te maken aan het systeem door middel van technisch solide ontwerpen en zorgvuldige ontwikkeling. Door implementatie van optimalisaties en protocol upgrades, zal   peer-to-peer digitaal geld ver voorbij de huidige limieten schalen."
         }
       ]
     },
@@ -872,7 +1194,7 @@
     "330fc806c5c3793a47a237ab77f659c4": {
       "translations": [
         {
-          "translation": "Het mogelijk maken dat Bitcoin cash kan opschalen van ongeveer 100 Tx/s tot meer dan 5.000.000 Tx/s. Protocol-verbeteringen moeten gemaakt worden zodat massale parallellisaties dit niveau van transactie verwerking mogelijk maakt."
+          "translation": "Het mogelijk maken dat Bitcoin Cash kan opschalen van ongeveer 100 Tx/s tot meer dan 5.000.000 Tx/s. Protocol-verbeteringen moeten gemaakt worden zodat massale parallellisaties dit niveau van transactie verwerking mogelijk maakt."
         }
       ]
     },
@@ -886,14 +1208,14 @@
     "580458ef8a82dc6d1ad48aaf4cec2b90": {
       "translations": [
         {
-          "translation": "Maak Bitcoin Cash uitbreidbaar. Een uitbreidbaar protocol maakt toekomstige verbeteringen minder verstorend en zorgt voor een solide basis waarop bedrijven en ontwikkelaars kunnen bouwen."
+          "translation": "Maak Bitcoin Cash uitbreidbaar. Een uitbreidbaar protocol maakt toekomstige verbeteringen minder verstorend en zorgt voor een solide basis waarop bedrijven en ontwikkelaars kunnen bouwen."
         }
       ]
     },
     "ede0f6a38233fccc685c47f6c138e5a3": {
       "translations": [
         {
-          "translation": "Het Bitcoin Cash netwerk heeft twee keer per jaar protocol upgrades. Op 15 Mei en op 15 November. Deze upgrades zijn verplicht voor alle node eigenaren. Ze worden soms aangeduid als \"hardfork upgrades\", maar de term \"geplande protocol upgrades\" is te verkiezen. "
+          "translation": "Het Bitcoin Cash netwerk heeft twee keer per jaar protocol upgrades. Op 15 Mei en op 15 November. Deze upgrades zijn verplicht voor alle node eigenaren. Ze worden soms aangeduid als \"hardfork upgrades\", maar de term \"geplande protocol upgrades\" is te verkiezen. "
         }
       ]
     },
@@ -914,7 +1236,98 @@
     "6e59af9a2000ad59bc5cb5b47a17c2c7": {
       "translations": [
         {
-          "translation": "Om een solide basis voor applicatie-ontwikkeling en innovatie te worden moet Bitcoin Cash continu verbeteren en concurreren. Samen werkend kunnen we een technisch fundament bouwen om Bitcoin Cash in staat te stellen het beste geld te zijn dat de wereld ooit gezien heeft."
+          "translation": "Om een solide basis voor applicatie-ontwikkeling en innovatie te worden moet Bitcoin Cash continu verbeteren en concurreren. Samen werkend kunnen we een technisch fundament bouwen om Bitcoin Cash in staat te stellen het beste geld te zijn dat de wereld ooit gezien heeft."
+        }
+      ]
+    },
+    "f6c44097c03448faa1d1d4cd3a7b8a9e": {
+      "translations": [
+        {
+          "translation": "Winkel Online"
+        }
+      ]
+    },
+    "0c7a4eafd2714cafe162617f567d94c6": {
+      "translations": [
+        {
+          "translation": "Geef Bitcoin Cash uit bij één van uw favoriete online winkels."
+        }
+      ]
+    },
+    "a975d19dcd192c56716c068e8244d26e": {
+      "translations": [
+        {
+          "translation": "Besteed in Restaurants"
+        }
+      ]
+    },
+    "8ab082f16c6dbc55a408fae29a05f625": {
+      "translations": [
+        {
+          "translation": "Bezoek restaurants en cafés die Bitcoin Cash accepteren. "
+        }
+      ]
+    },
+    "8b08668323fc878fc4c870760dcc43f3": {
+      "translations": [
+        {
+          "translation": "Winkelen"
+        }
+      ]
+    },
+    "5abcdb390d40e4a8776b54d56d642d05": {
+      "translations": [
+        {
+          "translation": "Drop in to over 5000 physical locations accepting Bitcoin Cash."
+        }
+      ]
+    },
+    "b7c1d3ad85e85435585dd5a42bd3e0fc": {
+      "translations": [
+        {
+          "translation": "Wat kan ik kopen met Bitcoin Cash?"
+        }
+      ]
+    },
+    "b71f4d4822b332fdd741f15c787a1c45": {
+      "translations": [
+        {
+          "translation": "Geef Bitcoin Cash Uit"
+        }
+      ]
+    },
+    "8bd6057443fb796c6ec1f3181dc8c7ec": {
+      "translations": [
+        {
+          "translation": "Getting stBitcoin Cash isn’t just for speculation. It’s intended usage is a peer to peer electronic currency, which means, it should be spent. Spending Bitcoin Cash is fast, with near-instant transactions and sub-cent transaction fees, making it the most secure and widely used digital currency on the planet."
+        }
+      ]
+    },
+    "98de1bb9fab11d069ecb356b5da29844": {
+      "translations": [
+        {
+          "translation": "Where can I spend Bitcoin Cash?"
+        }
+      ]
+    },
+    "acc1d2044652d38249f3ad8e4d4a2aac": {
+      "translations": [
+        {
+          "translation": "Spend Bitcoin Cash in Person"
+        }
+      ]
+    },
+    "7a350b47bb5227b22b2e3181d50bcba4": {
+      "translations": [
+        {
+          "translation": "Location data by {=Bitcoin.com Maps}"
+        }
+      ]
+    },
+    "96595f0244e74d9bdcc717f7604c7ff7": {
+      "translations": [
+        {
+          "translation": "Bitcoin.com Maps"
         }
       ]
     },
@@ -956,7 +1369,7 @@
     "370fcbf712cd27345ee3cb129882bb72": {
       "translations": [
         {
-          "translation": "Waar sla  ik mijn Bitcoin Cash op?"
+          "translation": "Waar sla  ik mijn Bitcoin Cash op?"
         }
       ]
     },
@@ -970,70 +1383,70 @@
     "39686bb0751adc2ea460e16907764f21": {
       "translations": [
         {
-          "translation": "Gestart geraken met Bitcoin Cash is super makkelijk. De eerste stap is het downloaden van een portefeuille zodat je kan beginnen deelnemen in de Bitcoin economie. De meeste portemonnees zijn gratis te downloaden en gemakkelijk te gebruiken met een paar essensiële functies zoals zenden, ontvangen, veilig bewaren van fondsen, transactie lookups en meer. "
+          "translation": "Gestart geraken met Bitcoin Cash is super makkelijk. De eerste stap is het downloaden van een portefeuille zodat je kan beginnen deelnemen in de Bitcoin economie. De meeste portemonnees zijn gratis te downloaden en gemakkelijk te gebruiken met een paar essensiële functies zoals zenden, ontvangen, veilig bewaren van fondsen, transactie lookups en meer. "
         }
       ]
     },
     "a52662521b616cc5e743a013fab56c13": {
       "translations": [
         {
-          "translation": "Hoe verkrijg ik Bitcoin Cash"
+          "translation": "Hoe verkrijg ik Bitcoin Cash"
         }
       ]
     },
     "6643a872c9b0fa37db7d39081471b16a": {
       "translations": [
         {
-          "translation": "Koop of Verdien Bitcoin Cash"
+          "translation": "Koop of Verdien Bitcoin Cash"
         }
       ]
     },
     "b3fb242ac070953d5104c4f2363bb244": {
       "translations": [
         {
-          "translation": "De twee gemakkelijkste manieren om Bitcoin Cash te verkrijgen is om het te kopen of ervoor te werken. Het kopen van Bitcoin Cash is de meest gebruikte en meest handige manier. Alles wat je hoeft te doen is registreren voor een Bitcoin wisselbeurs en geld storten zodat je dit kan omzetten naar Bitcoin Cash. De wisselbeurs zal je de Bitcoin Cash zenden nadat de omzetting voltooid is."
+          "translation": "De twee gemakkelijkste manieren om Bitcoin Cash te verkrijgen is om het te kopen of ervoor te werken. Het kopen van Bitcoin Cash is de meest gebruikte en meest handige manier. Alles wat je hoeft te doen is registreren voor een Bitcoin wisselbeurs en geld storten zodat je dit kan omzetten naar Bitcoin Cash. De wisselbeurs zal je de Bitcoin Cash zenden nadat de omzetting voltooid is."
         }
       ]
     },
     "2ad3d93815fbfa52ab4a6a7824e72e46": {
       "translations": [
         {
-          "translation": "Wat kan ik kopen met Bitcoin Cash?"
+          "translation": "Wat kan ik kopen met Bitcoin Cash?"
         }
       ]
     },
     "3dd3da825840d16a076e537d527ba830": {
       "translations": [
         {
-          "translation": "Geef Bitcoin Cash Uit"
+          "translation": "Geef Bitcoin Cash Uit"
         }
       ]
     },
     "e3976450a07e4c3c1be22c6b4047ac80": {
       "translations": [
         {
-          "translation": "Bitcoin Cash is niet enkel voor speculatie. Het bedoelde gebruik is als een peer to peer electronische valuta, wat betekend dat het uitgegeven moet worden. Het besteden van Bitcoin Cash is snel, met bijna onmiddeljke transacties en sub-cent transactiekosten, wat het de meest veilige en op grote schaal gebruikte digitale valuta maakt op de planeet."
+          "translation": "Bitcoin Cash is niet enkel voor speculatie. Het bedoelde gebruik is als een peer to peer electronische valuta, wat betekend dat het uitgegeven moet worden. Het besteden van Bitcoin Cash is snel, met bijna onmiddeljke transacties en sub-cent transactiekosten, wat het de meest veilige en op grote schaal gebruikte digitale valuta maakt op de planeet."
         }
       ]
     },
     "43e340303ba59891b094e701ae8a5219": {
       "translations": [
         {
-          "translation": "Hoe kan mijn bedrijf Bitcoin Cash gebruiken?"
+          "translation": "Hoe kan mijn bedrijf Bitcoin Cash gebruiken?"
         }
       ]
     },
     "baa4ef6f10ee3273f568e30e99973c46": {
       "translations": [
         {
-          "translation": "Accepteer Bitcoin Cash"
+          "translation": "Accepteer Bitcoin Cash"
         }
       ]
     },
     "aab54798d448c24c51e5bb9f65c12fac": {
       "translations": [
         {
-          "translation": "Als een handelszaak is het een van je belangrijkste doelen om betaling zo snel mogelijk en frictieloos te accepteren en verwerken als mogelijk, zo ben je klantvriendelijk en ontvang je betalingen zonder kopzorgen. Bitcoin Cash is de oplossing, want het heeft snelle en lage kost transacties. Terwijl de wereld digitaliseert,electronische valuta zoals Bitcoin Cash zijn de go-to methode aan het worden voor online en in retailwinkels. Ontvang Bitcoin Cash eenvoudig en rechtstreeks of gebruik een provider als derde partij om Bitcoin Cash te ontvangen via hun platform en zet de hele of gedeeltelijke verkoop om naar lokaal fiatgeld."
+          "translation": "Als een handelszaak is het een van je belangrijkste doelen om betaling zo snel mogelijk en frictieloos te accepteren en verwerken als mogelijk, zo ben je klantvriendelijk en ontvang je betalingen zonder kopzorgen. Bitcoin Cash is de oplossing, want het heeft snelle en lage kost transacties. Terwijl de wereld digitaliseert,electronische valuta zoals Bitcoin Cash zijn de go-to methode aan het worden voor online en in retailwinkels. Ontvang Bitcoin Cash eenvoudig en rechtstreeks of gebruik een provider als derde partij om Bitcoin Cash te ontvangen via hun platform en zet de hele of gedeeltelijke verkoop om naar lokaal fiatgeld."
         }
       ]
     },
@@ -1047,7 +1460,7 @@
     "67d997bd9cd69eeffb06ed1d005309ff": {
       "translations": [
         {
-          "translation": "Een telefoon-portemonnee is geweldig om Bitcoin Cash op te slaan en uit te geven. "
+          "translation": "Een telefoon-portemonnee is geweldig om Bitcoin Cash op te slaan en uit te geven. "
         }
       ]
     },
@@ -1061,7 +1474,7 @@
     "640155cd0a4887eea9f0fe40f50ad963": {
       "translations": [
         {
-          "translation": "Probeer een computer-Portemonnee te gebruiken om Bitcoin Cash in uw bedrijf te integreren. "
+          "translation": "Probeer een computer-Portemonnee te gebruiken om Bitcoin Cash in uw bedrijf te integreren. "
         }
       ]
     },
@@ -1075,7 +1488,7 @@
     "3cb92d5d743af70b83a16a08f06b75f3": {
       "translations": [
         {
-          "translation": "Bewaar uw Bitcoin Cash in een veilige hardware-portemonnee. Geweldig voor lange termijn opslag."
+          "translation": "Bewaar uw Bitcoin Cash in een veilige hardware-portemonnee. Geweldig voor lange termijn opslag."
         }
       ]
     },
@@ -1114,20 +1527,6 @@
         }
       ]
     },
-    "49440f77671864785f39105fb2f38bc7": {
-      "translations": [
-        {
-          "translation": "Start using the Bitcoin.com Wallet for a simple, secure way to send and receive Bitcoin. The wallet supports both Bitcoin Cash (BCH) and Bitcoin Core (BTC), allowing users to switch between the two different currencies effortlessly."
-        }
-      ]
-    },
-    "37cbba2fb53c609ac63f557fe351427c": {
-      "translations": [
-        {
-          "translation": "Your private keys are encrypted and never leave your computer. Your funds can be recovered from a secret phrase. Electron Cash is fast, because it uses servers that index the Bitcoin Cash blockchain. You can export your private keys and use them in other Bitcoin Cash clients."
-        }
-      ]
-    },
     "30b0917c156050f542833475f6942bc3": {
       "translations": [
         {
@@ -1145,28 +1544,63 @@
     "b4556aebb796f5e71f4eb77b1bc26fab": {
       "translations": [
         {
-          "translation": "Mobile Wallets"
+          "translation": "Telefoon-Portemonnees"
         }
       ]
     },
     "1c909027e6efdfefa39b3d92aa688a48": {
       "translations": [
         {
-          "translation": "Desktop Wallets"
+          "translation": "Computer-Portemonnees"
         }
       ]
     },
     "a0369d50befc901a9fcfc65aa7b4a3aa": {
       "translations": [
         {
-          "translation": "Hardware Wallets"
+          "translation": "Hardware-Portemonnees"
         }
       ]
     },
     "ea4656f2a09327677744603e8d6b86d8": {
       "translations": [
         {
-          "translation": "Paper Wallets"
+          "translation": "Papieren-Portemonnees"
+        }
+      ]
+    },
+    "cf5bfb3a954b0cc97a5ad1b0df312858": {
+      "translations": [
+        {
+          "translation": "Coinbase is a digital currency exchange headquartered in San Francisco, California. They broker exchanges of Bitcoin Cash and other cryptocurrencies with fiat currencies in approximately 32 countries."
+        }
+      ]
+    },
+    "52f47801fe8849adcf8e14a4d6ce4529": {
+      "translations": [
+        {
+          "translation": "CoinEx is dedicated to building a highly secure, stable and efficient digital coin exchange for global users. CoinEx now supports multiple languages and are providing global trading services in nearly 100 countries/regions."
+        }
+      ]
+    },
+    "45f8bafd7d930fd1492accec3dee96b5": {
+      "translations": [
+        {
+          "translation": "Kraken is the largest Bitcoin exchange in euro volume and liquidity and also trading Canadian dollars, US dollars, British pounds and Japanese yen. Kraken is consistently rated the best and most secure Bitcoin exchange by independent news media."
+        }
+      ]
+    },
+    "13691ba4252beb6502e8bf9a91778aab": {
+      "translations": [
+        {
+          "translation": "Gebruik de Bitcoin.com Wallet voor een simpele, veilige manier om Bitcoin te verzenden en ontvangen. De portemonnee ondersteunt zowel Bitcoin Cash (BCH) en Bitcoin Core (BTC), zodat gebruikers moeiteloos kunnen omschakelen tussen de twee verschillende valuta's."
+        }
+      ]
+    },
+    "1c4c29060f6485fde9f4f8ed8757b5d6": {
+      "translations": [
+        {
+          "translation": "Je geheime sleutels zijn geëncrypteerd en verlaten nooit je computer. Je fondsen kunnen gerecupereerd worden van een geime frase. Electron Cash is snel, want het gebruikt servers die de Bitcoin Cash Blockchain indexeren. Je kan je geheime sleutels exporteren en ze gebruiken in andere BIitcoin Cash portemonnees."
         }
       ]
     }
