@@ -68,7 +68,7 @@ const Header = () => {
     },
     {
       text: fbt("Logos", "Community menu 'logos' link"),
-      href: "/graphics.html",
+      href: "/graphics/",
     },
     {
       text: fbt("Whitepaper", "Community menu 'whitepaper' link"),
@@ -175,7 +175,7 @@ const Header = () => {
             <LivePriceWidget
               currentPrice={"$" + currentUSDPrice}
               ticker={"USD"}
-              url={"/buy-bitcoin-cash.html"}
+              url={"/buy-bitcoin-cash/"}
             />
           </div>
 
