@@ -48,19 +48,19 @@ const Header = () => {
   const communityDropdownLinks = [
     {
       text: fbt("Services", "Community menu 'services' link"),
-      href: "/services.html",
+      href: "/services/",
     },
     {
       text: fbt("Projects", "Community menu 'projects' link"),
-      href: "/projects.html",
+      href: "/projects/",
     },
     {
       text: fbt("Exchanges", "Community menu 'exchanges' link"),
-      href: "/exchanges.html",
+      href: "/exchanges/",
     },
     {
       text: fbt("Nodes", "Community menu 'nodes' link"),
-      href: "/nodes.html",
+      href: "/nodes/",
     },
     {
       text: fbt("Developer Portal", "Community menu 'developper portal' link"),
