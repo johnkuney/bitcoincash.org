@@ -92,7 +92,7 @@ const GettingStartedPage = () => {
 
   return (
     <>
-      <SEO title="Getting Started" />
+      <SEO title={fbt("Getting Started", "Getting Started page SEO title")} />
       <Container>
         <Row>
           <Sidebar
@@ -105,7 +105,7 @@ const GettingStartedPage = () => {
           <LargeTile
             content={largeTileContent}
             buttontext={fbt("Learn more", "learn more button")}
-            href={"/faq.html"}
+            href={"/faq/"}
           >
             <iframe
               src="https://www.youtube-nocookie.com/embed/OE3QTbgh-p8?rel=0"

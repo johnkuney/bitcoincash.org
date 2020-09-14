@@ -53,7 +53,7 @@
     "a93ad13582036c6c06c4ddffba43018b": {
       "translations": [
         {
-          "translation": "Get started"
+          "translation": "开始"
         }
       ]
     },
@@ -239,6 +239,13 @@
         }
       ]
     },
+    "94bb812db2775ab0519cb698344e0453": {
+      "translations": [
+        {
+          "translation": "Bitcoin Cash brings sound money to the world. Merchants and users are empowered with low fees and reliable confirmations. The future shines brightly with unrestricted growth, global adoption, permissionless innovation, and decentralized development."
+        }
+      ]
+    },
     "a7430462af5cba62b3f993c0b544b345": {
       "translations": [
         {
@@ -249,7 +256,7 @@
     "c896f27be5c90b6872cb876ce31ecfe3": {
       "translations": [
         {
-          "translation": "{upgrade activation time} Planned Network Upgrade"
+          "translation": "{upgrade activation time} 规划中的网络升级"
         }
       ]
     },
@@ -277,14 +284,14 @@
     "c7953645d1fdc6c8e72e1ad2fe573a5f": {
       "translations": [
         {
-          "translation": "Compatible Implementations:"
+          "translation": "兼容实现:"
         }
       ]
     },
     "4b0b3d5f8d03531c1cfe320e2883e0fd": {
       "translations": [
         {
-          "translation": "Additional Information:"
+          "translation": "其他信息:"
         }
       ]
     },
@@ -410,7 +417,7 @@
     "6e149233a553b9376f9867d91685881e": {
       "translations": [
         {
-          "translation": "Explorer"
+          "translation": "浏览器"
         }
       ]
     },
@@ -512,6 +519,13 @@
         }
       ]
     },
+    "0ec744dfe61b0be542209b5fcf09150c": {
+      "translations": [
+        {
+          "translation": "使用比特币现金"
+        }
+      ]
+    },
     "60b71435a466bbacb718ab4d64221ffb": {
       "translations": [
         {
@@ -529,7 +543,7 @@
     "1419e05c21231ca8536d6d2ba88434e7": {
       "translations": [
         {
-          "translation": "Send fiat to a trusted 3rd party exchange and purchase Bitcoin Cash."
+          "translation": "向受信第三方交易所支付法定货币，购买比特币现金。"
         }
       ]
     },
@@ -543,14 +557,14 @@
     "c32d07c9f1ec7e029145acba7847810d": {
       "translations": [
         {
-          "translation": "Use a trusted {=Bitcoin Cash faucet} to receive a tiny amount of Bitcoin Cash for free!"
+          "translation": "通过受信的{=Bitcoin Cash faucet}免费接收少量比特币现金！"
         }
       ]
     },
-    "cda264ce502bf19e3c87800b415f9aa9": {
+    "5d92a742ae5869d668144900f56ce4ee": {
       "translations": [
         {
-          "translation": "Bitcoin Cash faucet"
+          "translation": "比特币现金水龙头"
         }
       ]
     },
@@ -589,17 +603,10 @@
         }
       ]
     },
-    "6054437c3668b07a834dc86969cf86ce": {
+    "be1ce878ec3c7879d4f51c101bd5039d": {
       "translations": [
         {
-          "translation": "Participate on censorship resistant social media platforms like {=Memo.cash}."
-        }
-      ]
-    },
-    "55f273c5a8d86eb747161961fffafbe6": {
-      "translations": [
-        {
-          "translation": "Memo.cash"
+          "translation": "Participate on censorship resistant social media platforms like {memo.cash}."
         }
       ]
     },
@@ -610,31 +617,17 @@
         }
       ]
     },
-    "578e1c24c06339241dd1f563459cdc38": {
+    "e4702e9cbb7e01373845da4671ea7170": {
       "translations": [
         {
-          "translation": "Connect with locals in your area who are selling Bitcoin Cash on {=Bitcoin.com Local} or {=LocalBitcoinCash.org}."
-        }
-      ]
-    },
-    "8f6a34e4e79b161e1cb2df8456865e7a": {
-      "translations": [
-        {
-          "translation": "Bitcoin.com Local"
-        }
-      ]
-    },
-    "492a45a6c0f304b65954242800998b1b": {
-      "translations": [
-        {
-          "translation": "LocalBitcoinCash.org"
+          "translation": "Connect with locals in your area who are selling Bitcoin Cash on {local.bitcoin.com} or {localbitcoincash.org}."
         }
       ]
     },
     "7bca5f561da7058a2446053e3757a05b": {
       "translations": [
         {
-          "translation": "Accept Bitcoin Cash at your Business"
+          "translation": "将比特币现金导入自己的业务"
         }
       ]
     },
@@ -645,7 +638,7 @@
         }
       ]
     },
-    "dd0178697fea3f95cdf0bd9ca0fec8a8": {
+    "62d4e4b07337d40d70de5c2847518a25": {
       "translations": [
         {
           "translation": "Bitcoin Cash Register"
@@ -701,17 +694,17 @@
         }
       ]
     },
-    "d19057e75b57b87372167e8b3060d0b0": {
+    "fd3c450b48cfba87fe672e03c08adb75": {
       "translations": [
         {
           "translation": "Bitcoin Cash Meetup"
         }
       ]
     },
-    "38445241b155405218c4a57740299045": {
+    "bbbbdbd3c9649b1a75c862ae8e2c140b": {
       "translations": [
         {
-          "translation": "spend Bitcoin Cash"
+          "translation": "使用比特币现金"
         }
       ]
     },
@@ -726,6 +719,13 @@
       "translations": [
         {
           "translation": "线上购买比特币现金是最常用的比特币现金接收方式。您可以通过买卖本地货币与数字加密货币的线上交易所进行银行转账，实现比特币现金交易。有些交易所甚至接受信用卡即时购买。与任何线上购物一样，您要自己研究，一定要有自己的钱包。我们不建议在交易所账户中存放任何比特币现金。一定要将比特币现金存放在您自己的，经过安全备份的钱包里。"
+        }
+      ]
+    },
+    "73199e1a37833cc407baf9cb594a7720": {
+      "translations": [
+        {
+          "translation": "Buy Bitcoin Cash"
         }
       ]
     },
@@ -757,10 +757,325 @@
         }
       ]
     },
+    "68add98186b42b1447f6bd4037f0613d": {
+      "translations": [
+        {
+          "translation": "开发人员门户"
+        }
+      ]
+    },
+    "4cd11a2d59ce3b8d1db9aa9efaf25cd0": {
+      "translations": [
+        {
+          "translation": "用比特币现金开发令人称奇的应用程序"
+        }
+      ]
+    },
+    "8369cbce0cd83f40e6aa0dae19bb0d36": {
+      "translations": [
+        {
+          "translation": "为开发人员提供的资源，开发人员提供的资源。"
+        }
+      ]
+    },
+    "be8e33683aa11aa3f6de5dc80441f0bc": {
+      "translations": [
+        {
+          "translation": "Libraries"
+        }
+      ]
+    },
+    "212e15c413bacd57f3d1c626aa8b90e6": {
+      "translations": [
+        {
+          "translation": "Python’s fastest Bitcoin Cash library. Intuitive and effortless to use."
+        }
+      ]
+    },
+    "8666c3469b291e614df874173d1358a9": {
+      "translations": [
+        {
+          "translation": "阅读更多内容"
+        }
+      ]
+    },
+    "4b0ef5afb7eba267fa7d56c9a83c9e44": {
+      "translations": [
+        {
+          "translation": "Fully featured, powerful javascript framework for Bitcoin Cash."
+        }
+      ]
+    },
+    "4d7ab3b98c6b501998627b98ff9053e2": {
+      "translations": [
+        {
+          "translation": "Resources"
+        }
+      ]
+    },
+    "dfcc2a008c444cfb38d45449e05783d0": {
+      "translations": [
+        {
+          "translation": "规范"
+        }
+      ]
+    },
+    "8b3cf2dc9d41f4eefa1dd4a239e0f0c8": {
+      "translations": [
+        {
+          "translation": "比特币现金的词汇和相关API"
+        }
+      ]
+    },
+    "b25bc666e4b746b02c7ab8fccf604fb9": {
+      "translations": [
+        {
+          "translation": "Badger Wallet injects an API into pages a user visits to allow apps to request a users's permission to send Bitcoin Cash, send tokens, or authenticate with CashID."
+        }
+      ]
+    },
+    "68e28bba2482472a7b1481cdabecbbec": {
+      "translations": [
+        {
+          "translation": "Simple Tokens - Secure Tokens on Bitcoin Cash"
+        }
+      ]
+    },
+    "095a77bfa04da6e74399b37991970188": {
+      "translations": [
+        {
+          "translation": "Bitcoin Cash Exchanges"
+        }
+      ]
+    },
     "678465bc79271d7b1c4c4ea5ec0da06b": {
       "translations": [
         {
           "translation": "Featured Exchanges"
+        }
+      ]
+    },
+    "6cad5bafbce7652dedd3f3d79a85a990": {
+      "translations": [
+        {
+          "translation": "常见问题"
+        }
+      ]
+    },
+    "3a7dd67cbfae55f4c47e06d883f3cc42": {
+      "translations": [
+        {
+          "translation": "常见问题"
+        }
+      ]
+    },
+    "4ae560b5f5e9e7e0d5343cebb0030a33": {
+      "translations": [
+        {
+          "translation": "何为比特币现金？"
+        }
+      ]
+    },
+    "9f2a1753fb523074fcdd70150a5603a7": {
+      "translations": [
+        {
+          "translation": "比特币现金是一种点对点电子现金系统。它是一种无需授权的去中心化数字加密货币，无需受信任的第三方与中央银行。"
+        }
+      ]
+    },
+    "87f71b72353a11920b45e4cfd625f10f": {
+      "translations": [
+        {
+          "translation": "比特币现金与“比特币”不一样吗？ "
+        }
+      ]
+    },
+    "653fd3da0abccfdbb378bf075b6840af": {
+      "translations": [
+        {
+          "translation": "2017年，比特币项目及其社区一分为二。用各自的交易代码BTC与BCH称呼对方，这也许是最没有争议的方式。比特币现金一般是用BCH交易代码代表的，被支持者视为一种点对点数字货币比特币项目的合法延续"
+        }
+      ]
+    },
+    "87d5ce419b5a5da7dbc85844e3eec49d": {
+      "translations": [
+        {
+          "translation": "为什么使用比特币现金？"
+        }
+      ]
+    },
+    "5ce3c3607a6be9afda56463edfb00dfa": {
+      "translations": [
+        {
+          "translation": "向全球各地汇款，几乎是免费的"
+        }
+      ]
+    },
+    "be257141051f1f2b3d520b7441911521": {
+      "translations": [
+        {
+          "translation": "有了比特币现金，您可以每年365天，每天24小时向全球各地的任何人汇款。与互联网一样，比特币现金网络全年无休。交易金额不分大小，再也不需要任何人授权或批准了。"
+        }
+      ]
+    },
+    "bd863d1dece1236861e8159e82e4cefc": {
+      "translations": [
+        {
+          "translation": "您就是自己的银行，完全掌控自己的钱"
+        }
+      ]
+    },
+    "7c4955fbc9399239d5e2a47394f0681f": {
+      "translations": [
+        {
+          "translation": "塞浦路斯（差不多还有希腊）发生过账户持有人资金被扣留的事件（“保释”），表明银行存款的安危完全系于政治领袖的决定。即使是最理想的状况，银行也可能出错，扣留资金，冻结账户，或者让您无法接触自己的资金。"
+        }
+      ]
+    },
+    "4c133c58b16e75714d1f9d5b1800ae79": {
+      "translations": [
+        {
+          "translation": "银行也可能决定阻止您的交易，向您收费，或未经事先警告而关闭您的账户。比特币现金让您完全掌控自己的资金，自己当家做主，您可以在全球的任何角落查看自己的资金。"
+        }
+      ]
+    },
+    "89b8a9a584ef9ab6c272ddf04d5af2e4": {
+      "translations": [
+        {
+          "translation": "一种有明确固定供应源的稀缺数字货币"
+        }
+      ]
+    },
+    "331bef5c05b320a8c41530799b59fa9e": {
+      "translations": [
+        {
+          "translation": "比特币现金协议保证绝不会有超过2100万的比特币存在。政府持续印刷货币，无休止地超额供应，让每个人的存款贬值。比特币现金是定量供应的，因此是一种健全的货币。"
+        }
+      ]
+    },
+    "c363a89ba416e4ff37ded38094db030c": {
+      "translations": [
+        {
+          "translation": "提升您的私密性和操作匿名性"
+        }
+      ]
+    },
+    "b91eba2760296a035a891fb5c937f96d": {
+      "translations": [
+        {
+          "translation": "比特币现金比银行转账与信用卡付款之类的传统支付方式更加私密，匿名性也更好，因为一般无法知道是谁控制了比特币地址。"
+        }
+      ]
+    },
+    "db7e492a5b85bbfe7692642df1857e99": {
+      "translations": [
+        {
+          "translation": "基于使用用途不同，比特币现金对应着不同程度的隐私。在把比特币现金作为私密使用前，对其仔细研究是很重要的。"
+        }
+      ]
+    },
+    "56941c56ff445a1a05773644a6fa2037": {
+      "translations": [
+        {
+          "translation": "独享各种优惠"
+        }
+      ]
+    },
+    "bc513a1668a77cf1e2e614a02ff94106": {
+      "translations": [
+        {
+          "translation": "许多商户向支付比特币现金的顾客提供各种优惠，因为无需缴纳信用卡手续费了，从而促进了这种新型支付方式的普及。"
+        }
+      ]
+    },
+    "6d54f0d35dce4daf8d8aab0fbe880708": {
+      "translations": [
+        {
+          "translation": "支持全球范围内的资金自由流动"
+        }
+      ]
+    },
+    "14bbf01a9648499286cbae56fcd5d5cf": {
+      "translations": [
+        {
+          "translation": "比特币现金是一种无需授权的开放式网络。让您与其他用户交互，而不受任何干扰。它是一种去中心化，自愿性非侵略性网络。随着应用的普及，曾经的权力结构受到侵蚀，新想法则层出不穷。也许会促成人类已知的最伟大的和平革命。"
+        }
+      ]
+    },
+    "5dc874c22b609ac5900905f17603b0bf": {
+      "translations": [
+        {
+          "translation": "商户的福利"
+        }
+      ]
+    },
+    "0d9878c92506f6e3ee01e4b10ef67911": {
+      "translations": [
+        {
+          "translation": "超低费用"
+        }
+      ]
+    },
+    "cc6e9f112d784552c3d26263c74e3ad5": {
+      "translations": [
+        {
+          "translation": "一笔比特币现金交易的网络费用普遍少于一美分。如果你通过商户处理器将比特币现金换成诸如美元之类的法币，手续费甚至比使用信用卡的费用还低很多。"
+        }
+      ]
+    },
+    "7376727274bf1c9f79d879a4a5bb38d8": {
+      "translations": [
+        {
+          "translation": "不扣费"
+        }
+      ]
+    },
+    "56126150403163d5e19d562d5b8876ce": {
+      "translations": [
+        {
+          "translation": "与信用卡不一样，比特币现金交易中绝不会有任何自动失效、退账、扣费或其他没有料到的费用。系统内置一个反欺诈防护机制，商户不承担相关费用。"
+        }
+      ]
+    },
+    "dc9a7d1e3012ee8da65c48685be038f4": {
+      "translations": [
+        {
+          "translation": "新顾客"
+        }
+      ]
+    },
+    "436c6f204eb09cddbb613b8c1c07ba24": {
+      "translations": [
+        {
+          "translation": "越来越多的顾客选择比特币现金为首选的支付方式。他们青睐那些提供这种付款方式的商家，到处寻找这种商家。"
+        }
+      ]
+    },
+    "e8c7411441e74e4056d84b4ac4dc9db4": {
+      "translations": [
+        {
+          "translation": "免费营销与宣传"
+        }
+      ]
+    },
+    "134e2d98fdb2059d517782ad148d6af3": {
+      "translations": [
+        {
+          "translation": "接受比特币现金付款的商户可以免费列入相应的网站和应用程序名册，招来更多顾客。它们还可以利用这种新的趋势，为自己的业务造势。"
+        }
+      ]
+    },
+    "3e2ba39c893f2dd66fa7ab8506b7e408": {
+      "translations": [
+        {
+          "translation": "比特币现金路线图"
+        }
+      ]
+    },
+    "444176d6569632e9f20bae4aad98c9c5": {
+      "translations": [
+        {
+          "translation": "查看发展路线"
         }
       ]
     },
@@ -869,6 +1184,13 @@
         }
       ]
     },
+    "3cb62264212f3370974b26fe12f18810": {
+      "translations": [
+        {
+          "translation": "开始"
+        }
+      ]
+    },
     "320884bf7d995a7c5f6ed2b50f3280b5": {
       "translations": [
         {
@@ -880,6 +1202,13 @@
       "translations": [
         {
           "translation": "Learn more"
+        }
+      ]
+    },
+    "dcf13c988504e8e8b5b876069632c0fd": {
+      "translations": [
+        {
+          "translation": "Logos and Graphics"
         }
       ]
     },
@@ -1107,10 +1436,31 @@
         }
       ]
     },
+    "ffe388386a3f6ea439f72452050e80a9": {
+      "translations": [
+        {
+          "translation": "首页"
+        }
+      ]
+    },
+    "44a24bc2296c5d9e605b8f25b668460c": {
+      "translations": [
+        {
+          "translation": "Bitcoin Cash Nodes"
+        }
+      ]
+    },
     "0b70238c1ec446e023d6d616d39b20d1": {
       "translations": [
         {
           "translation": "节点"
+        }
+      ]
+    },
+    "8863afc1901492a09d8fc593934a6a9c": {
+      "translations": [
+        {
+          "translation": "Bitcoin Cash Projects"
         }
       ]
     },
@@ -1408,6 +1758,13 @@
         }
       ]
     },
+    "5f0f6872577f832b8e66428e941a7590": {
+      "translations": [
+        {
+          "translation": "路线图"
+        }
+      ]
+    },
     "db0474a08f0ea607a9dce3710b680bae": {
       "translations": [
         {
@@ -1492,6 +1849,13 @@
         }
       ]
     },
+    "abf7a99cb5c993a55b9707323a02ff39": {
+      "translations": [
+        {
+          "translation": "Bitcoin Cash Services"
+        }
+      ]
+    },
     "a6bb7cf37ec7fac947cd70e77df6e70c": {
       "translations": [
         {
@@ -1537,7 +1901,7 @@
     "e0846cb7cefedbbe5c94c635c95a6cd3": {
       "translations": [
         {
-          "translation": "Drop in to over {shop count} physical locations accepting Bitcoin Cash."
+          "translation": "逛逛超过{shop count}家接受比特币现金付款的实体店。"
         }
       ]
     },
@@ -1565,14 +1929,14 @@
     "98de1bb9fab11d069ecb356b5da29844": {
       "translations": [
         {
-          "translation": "Where can I spend Bitcoin Cash?"
+          "translation": "哪里可以用比特币现金？"
         }
       ]
     },
     "acc1d2044652d38249f3ad8e4d4a2aac": {
       "translations": [
         {
-          "translation": "Spend Bitcoin Cash in Person"
+          "translation": "用比特币现金线下购物消费"
         }
       ]
     },
@@ -1587,6 +1951,13 @@
       "translations": [
         {
           "translation": "Bitcoin.com Maps"
+        }
+      ]
+    },
+    "afd2a309498355f71d5247c563e67260": {
+      "translations": [
+        {
+          "translation": "点击这里开始"
         }
       ]
     },
@@ -1786,6 +2157,13 @@
         }
       ]
     },
+    "8fe149378aebfc9f37688e222b2c433e": {
+      "translations": [
+        {
+          "translation": "Bitcoin Cash Wallets"
+        }
+      ]
+    },
     "30b0917c156050f542833475f6942bc3": {
       "translations": [
         {
@@ -1803,28 +2181,28 @@
     "b4556aebb796f5e71f4eb77b1bc26fab": {
       "translations": [
         {
-          "translation": "Mobile Wallets"
+          "translation": "移动钱包"
         }
       ]
     },
     "1c909027e6efdfefa39b3d92aa688a48": {
       "translations": [
         {
-          "translation": "Desktop Wallets"
+          "translation": "桌面钱包"
         }
       ]
     },
     "a0369d50befc901a9fcfc65aa7b4a3aa": {
       "translations": [
         {
-          "translation": "Hardware Wallets"
+          "translation": "硬件钱包"
         }
       ]
     },
     "ea4656f2a09327677744603e8d6b86d8": {
       "translations": [
         {
-          "translation": "Paper Wallets"
+          "translation": "纸质钱包"
         }
       ]
     },
@@ -1852,14 +2230,14 @@
     "13691ba4252beb6502e8bf9a91778aab": {
       "translations": [
         {
-          "translation": "Start using the Bitcoin.com Wallet for a simple, secure way to send and receive Bitcoin. The wallet supports both Bitcoin Cash (BCH) and Bitcoin Core (BTC), allowing users to switch between the two different currencies effortlessly."
+          "translation": "开始使用Bitcoin.com钱包，简单安全地发送接收比特币。这种钱包支持比特币现金（BCH）与比特币核心（BTC），让用户在两种不同的货币之间轻松转换。"
         }
       ]
     },
     "1c4c29060f6485fde9f4f8ed8757b5d6": {
       "translations": [
         {
-          "translation": "Your private keys are encrypted and never leave your computer. Your funds can be recovered from a secret phrase. Electron Cash is fast, because it uses servers that index the Bitcoin Cash blockchain. You can export your private keys and use them in other Bitcoin Cash clients."
+          "translation": "你的私钥是加密的，且永久保留在你本地计算机中。你的资金可以从一串助记词中恢复。Electron Cash采用了运行在比特币现金区块链上的服务，故此运行速度很快。你可以导出私钥并在其他比特币现金客户端使用。"
         }
       ]
     }

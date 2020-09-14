@@ -1,8 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Bitcoincash.org",
-    description: "Money built for you—not banks",
-    author: "@gatsbyjs",
+    author: "Bitcoincash.org",
     themeColours: {
       primary_dark: "#040c3c",
       primary_light: "#212c6e",
@@ -13,6 +12,14 @@ module.exports = {
   },
   assetPrefix: "/v2",
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-1814670-4",
+        head: true,
+        anonymize: true,
+      },
+    },
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-resolve-src",
     "gatsby-plugin-sass",
