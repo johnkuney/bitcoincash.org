@@ -242,7 +242,7 @@
     "94bb812db2775ab0519cb698344e0453": {
       "translations": [
         {
-          "translation": "Bitcoin Cash brings sound money to the world. Merchants and users are empowered with low fees and reliable confirmations. The future shines brightly with unrestricted growth, global adoption, permissionless innovation, and decentralized development."
+          "translation": "比特幣現金為世界帶來一種可靠的貨幣，提供商家與使用者低手續費且可靠的交易確認。它，因其不受限制的成長、全世界的普及、無須允許的創新，以及去中心化的開發，有著極為光明的未來。"
         }
       ]
     },
@@ -389,14 +389,7 @@
     "fc31a7564465e7ea5b18f3d42d8b5d6c": {
       "translations": [
         {
-          "translation": "Roadmap"
-        }
-      ]
-    },
-    "9a0f1b9e1bb9cfc74b2d98b9b2a8fcd0": {
-      "translations": [
-        {
-          "translation": "首頁"
+          "translation": "路線圖"
         }
       ]
     },
@@ -543,7 +536,7 @@
     "1419e05c21231ca8536d6d2ba88434e7": {
       "translations": [
         {
-          "translation": "Send fiat to a trusted 3rd party exchange and purchase Bitcoin Cash."
+          "translation": "支付法定貨幣給信賴的第三方交易平台，購買比特幣現金"
         }
       ]
     },
@@ -627,7 +620,7 @@
     "7bca5f561da7058a2446053e3757a05b": {
       "translations": [
         {
-          "translation": "Accept Bitcoin Cash at your Business"
+          "translation": "在您的商店接受比特幣現金"
         }
       ]
     },
@@ -935,7 +928,7 @@
     "4c133c58b16e75714d1f9d5b1800ae79": {
       "translations": [
         {
-          "translation": "Banks can also decide to block your transactions, charge you fees, or close your account without warning. Bitcoin Cash gives you full, sovereign control over your funds, which you can access from anywhere in the world."
+          "translation": "銀行也可能決定阻擋交易、收取手續費，或無預警關閉帳戶。比特幣現金可讓您隨時隨地動用，完全掌控款項。"
         }
       ]
     },
@@ -949,7 +942,7 @@
     "331bef5c05b320a8c41530799b59fa9e": {
       "translations": [
         {
-          "translation": "The Bitcoin Cash protocol ensures there will never be more than 21 million coins in existence. Governments continually print money, endlessly inflating the supply and devaluing everyone’s savings. Bitcoin Cash has a fixed supply and therefore represents sound money."
+          "translation": "比特幣現金通訊協定保證，貨幣數絕不會超過 2100 萬個。政府會持續印鈔，不斷增加供應量，使每個人的存款縮水。比特幣現金的供應量固定，是體質穩健的貨幣。"
         }
       ]
     },
@@ -963,7 +956,7 @@
     "b91eba2760296a035a891fb5c937f96d": {
       "translations": [
         {
-          "translation": "Bitcoin Cash offers more privacy and anonymity than traditional payment systems like bank transfers and credit card payments, since it's normally impossible to know who controls a Bitcoin address."
+          "translation": "正常情況下，不可能知道比特幣地址持有人的身分，因此相較於銀行轉帳和信用卡付款等傳統支付系統，比特幣現金具有更強大的隱私和匿名性能。"
         }
       ]
     },
@@ -984,7 +977,7 @@
     "bc513a1668a77cf1e2e614a02ff94106": {
       "translations": [
         {
-          "translation": "Many merchants offer discounts for paying in Bitcoin Cash, because it eliminates credit card fees and helps grow the adoption of this new payment system."
+          "translation": "許多商家提供以比特幣現金付款折扣，一來可免除信用卡手續費，二來也可促進此全新支付系統的使用率。"
         }
       ]
     },
@@ -998,7 +991,7 @@
     "14bbf01a9648499286cbae56fcd5d5cf": {
       "translations": [
         {
-          "translation": "Bitcoin Cash is a permissionless, open network. It empowers you to engage with your fellow human beings without intrusion. It's decentralized, voluntary, and non-aggressive. As usage grows, old power structures will erode while fresh ideas blossom. It may help usher in the greatest peaceful revolution the world has ever known."
+          "translation": "比特幣現金是無需權限的開源網路。您可以在不受干擾的情況下，與志同道合的夥伴互動。此系統去中心化、全自願加入，且不具侵略性。隨著使用率增加，舊有權力結構將逐漸崩解，激發出新的想法，進而開創全球有史以來最偉大的和平革命。"
         }
       ]
     },
@@ -1019,7 +1012,7 @@
     "cc6e9f112d784552c3d26263c74e3ad5": {
       "translations": [
         {
-          "translation": "The network fee for a typical Bitcoin Cash transaction is less than one penny. If you want to convert your Bitcoin Cash into fiat currency, such as US dollars, you can do that through merchant processors for a cost that is still much lower than credit card processing."
+          "translation": "壹筆比特幣現金交易的網絡費用普遍少於壹美分。如果妳通過商戶處理器將比特幣現金換成諸如美元之類的法幣，手續費甚至比使用信用卡的費用還低很多。"
         }
       ]
     },
@@ -1033,7 +1026,7 @@
     "56126150403163d5e19d562d5b8876ce": {
       "translations": [
         {
-          "translation": "Unlike credit cards, there are never any automatic voids, refunds, chargebacks, or other unexpected fees. Fraud protection is built into the system with no cost to the merchant."
+          "translation": "這不像信用卡，絕不會有自動取消、退款、交易糾紛退款或其他無預期的費用。系統內建防詐騙措施，商家不必花一毛錢。"
         }
       ]
     },
@@ -1047,7 +1040,7 @@
     "436c6f204eb09cddbb613b8c1c07ba24": {
       "translations": [
         {
-          "translation": "A growing number of patrons are choosing Bitcoin Cash as a preferred payment method. They favor merchants who offer this payment option and actively seek them out."
+          "translation": "越來越多顧客選擇使用比特幣現金付款。他們喜歡到接受此支付方式的商家消費，也會主動尋找這類商家。"
         }
       ]
     },
@@ -1061,7 +1054,7 @@
     "134e2d98fdb2059d517782ad148d6af3": {
       "translations": [
         {
-          "translation": "By accepting Bitcoin Cash, merchants can gain free listings in website and app directories, gaining even more customers. They can also take advantage of this new trend and generate press for their business."
+          "translation": "只要接受比特幣現金，商家即可免費在網站和應用程式目錄中刊登廣告，吸引更多客戶。同時，商家也能運用這個新趨勢，主動創造媒體曝光機會。"
         }
       ]
     },
@@ -1075,7 +1068,7 @@
     "444176d6569632e9f20bae4aad98c9c5": {
       "translations": [
         {
-          "translation": "View the roadmap"
+          "translation": "查看發展路線"
         }
       ]
     },
@@ -1635,7 +1628,7 @@
     "cd210324da87d96a9e423660ca217086": {
       "translations": [
         {
-          "translation": "secure within 3 seconds - transaction fees forever low"
+          "translation": "3秒內確認——交易費永久低廉"
         }
       ]
     },
@@ -1712,42 +1705,42 @@
     "4e911c96b6738781fcfb52d827e2a82c": {
       "translations": [
         {
-          "translation": "Underway"
+          "translation": "進行中"
         }
       ]
     },
     "c322ae2380b4baec92a70aa1ebbe22e7": {
       "translations": [
         {
-          "translation": "Planned"
+          "translation": "計劃的"
         }
       ]
     },
     "f8587b3a18c163825d78472b397c218d": {
       "translations": [
         {
-          "translation": "Roadmap"
+          "translation": "路線圖"
         }
       ]
     },
     "833f50b83778189d804f395a6d5e8b95": {
       "translations": [
         {
-          "translation": "Scaling"
+          "translation": "擴容性"
         }
       ]
     },
     "668e0a0074ecef56d93bffc3eaf7334f": {
       "translations": [
         {
-          "translation": "Usability"
+          "translation": "可用性"
         }
       ]
     },
     "c33868c5aba6a5a196423b57167950a1": {
       "translations": [
         {
-          "translation": "Extensibility"
+          "translation": "擴展性"
         }
       ]
     },
@@ -1761,7 +1754,7 @@
     "5f0f6872577f832b8e66428e941a7590": {
       "translations": [
         {
-          "translation": "Roadmap"
+          "translation": "路線圖"
         }
       ]
     },
@@ -1901,7 +1894,7 @@
     "e0846cb7cefedbbe5c94c635c95a6cd3": {
       "translations": [
         {
-          "translation": "Drop in to over {shop count} physical locations accepting Bitcoin Cash."
+          "translation": "前往超過 {shop count} 家接受比特幣現金的實體商店。"
         }
       ]
     },
@@ -1936,7 +1929,7 @@
     "acc1d2044652d38249f3ad8e4d4a2aac": {
       "translations": [
         {
-          "translation": "Spend Bitcoin Cash in Person"
+          "translation": "親自支付比特幣現金"
         }
       ]
     },
@@ -2181,28 +2174,28 @@
     "b4556aebb796f5e71f4eb77b1bc26fab": {
       "translations": [
         {
-          "translation": "Mobile Wallets"
+          "translation": "行動錢包"
         }
       ]
     },
     "1c909027e6efdfefa39b3d92aa688a48": {
       "translations": [
         {
-          "translation": "Desktop Wallets"
+          "translation": "桌面錢包"
         }
       ]
     },
     "a0369d50befc901a9fcfc65aa7b4a3aa": {
       "translations": [
         {
-          "translation": "Hardware Wallets"
+          "translation": "硬體錢包"
         }
       ]
     },
     "ea4656f2a09327677744603e8d6b86d8": {
       "translations": [
         {
-          "translation": "Paper Wallets"
+          "translation": "紙本錢包"
         }
       ]
     },
@@ -2230,14 +2223,14 @@
     "13691ba4252beb6502e8bf9a91778aab": {
       "translations": [
         {
-          "translation": "Start using the Bitcoin.com Wallet for a simple, secure way to send and receive Bitcoin. The wallet supports both Bitcoin Cash (BCH) and Bitcoin Core (BTC), allowing users to switch between the two different currencies effortlessly."
+          "translation": "開始使用 Bitcoin.com 錢包，輕鬆安全收付比特幣。此款錢包同時支援比特幣現金 (BCH) 和 Bitcoin Core (BTC)，輕鬆切換兩種貨幣無煩惱。"
         }
       ]
     },
     "1c4c29060f6485fde9f4f8ed8757b5d6": {
       "translations": [
         {
-          "translation": "Your private keys are encrypted and never leave your computer. Your funds can be recovered from a secret phrase. Electron Cash is fast, because it uses servers that index the Bitcoin Cash blockchain. You can export your private keys and use them in other Bitcoin Cash clients."
+          "translation": "妳的私鑰是加密的，且永久保留在妳本地計算機中。妳的資金可以從壹串助記詞中恢復。Electron Cash采用了運行在比特幣現金區塊鏈上的服務，故此運行速度很快。妳可以導出私鑰並在其他比特幣現金客戶端使用。"
         }
       ]
     }
