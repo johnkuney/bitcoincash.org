@@ -5,20 +5,9 @@ import PrimaryButton from "components/buttons/primary-button"
 import Link from "global/link"
 import { Accordion } from "react-bootstrap"
 import Checkmark from "assets/icons/checkmark.svg"
-import { useLocaleContext } from "i18n/provider"
-
-const ACTIVATION_TIMESTAMP = 1605441600
+import UpgradeDate from "global/upgrade-date.js"
 
 const AnnouncementBar = () => {
-  const locale = useLocaleContext()
-  const upgradeTimeStr = new Date(
-    ACTIVATION_TIMESTAMP * 1000
-  ).toLocaleDateString(locale.bcp47, {
-    year: "numeric",
-    month: "short",
-    day: "numeric",
-  })
-
   return (
     <Accordion className={S.accordionSection}>
       <Accordion.Toggle as={S.accordionSection} eventKey="0">
@@ -27,7 +16,7 @@ const AnnouncementBar = () => {
           <fbt desc="Annoucement bar reminder headline">
             Reminder:
             <fbt:param name="upgrade activation time">
-              {upgradeTimeStr}
+              <UpgradeDate />
             </fbt:param>
             Planned Network Upgrade
           </fbt>
@@ -40,7 +29,7 @@ const AnnouncementBar = () => {
               <h4>
                 <fbt desc="Annoucement bar inner headline">
                   <fbt:param name="upgrade activation time">
-                    {upgradeTimeStr}
+                    <UpgradeDate />
                   </fbt:param>
                   Planned Network Upgrade
                 </fbt>
@@ -89,6 +78,14 @@ const AnnouncementBar = () => {
                   Additional Information:
                 </fbt>
               </h4>
+              <Link
+                className={S.panelLink}
+                href="https://blog.bitcoinabc.org/2020/09/14/preparing-businesses-for-a-successful-network-upgrade/"
+              >
+                <fbt desc="Annoucement bar 'Prepare for the Upgrade'">
+                  Prepare for the Upgrade
+                </fbt>
+              </Link>
               <Link
                 className={S.panelLink}
                 href="/spec/2020-11-15-upgrade.html"
