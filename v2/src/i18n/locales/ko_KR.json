@@ -249,42 +249,42 @@
     "e1c09e9bfdf309494fe6d1f790202195": {
       "translations": [
         {
-          "translation": "Days"
+          "translation": "일"
         }
       ]
     },
     "c4f44ba193ff4db86672135fc9980b58": {
       "translations": [
         {
-          "translation": "Hours"
+          "translation": "시간"
         }
       ]
     },
     "e20a138d6a1519785fcd0a65e72335ef": {
       "translations": [
         {
-          "translation": "Minutes"
+          "translation": "의사록"
         }
       ]
     },
     "d76d33208be8a3117302ae108a11792a": {
       "translations": [
         {
-          "translation": "Seconds"
+          "translation": "초"
         }
       ]
     },
     "b69ecfed8a1334b466c23047bf344d08": {
       "translations": [
         {
-          "translation": "Upgrade complete!"
+          "translation": "업그레이드 완료"
         }
       ]
     },
     "a7430462af5cba62b3f993c0b544b345": {
       "translations": [
         {
-          "translation": "Reminder: {upgrade activation time} Planned Network Upgrade"
+          "translation": "{upgrade activation time} 예정된 네트워크 업그레이드"
         }
       ]
     },
@@ -298,14 +298,14 @@
     "45291cdd18d5ca04e7ebebe7e5624ec8": {
       "translations": [
         {
-          "translation": "The Bitcoin Cash network will undergo a protocol upgrade as per {=the roadmap}. Businesses and other node operators who use the Bitcoin Cash network should check to ensure that their software is compatible with the upgrade."
+          "translation": "비트코인 캐시는 {=the roadmap}에 따라 주기적인 프로토콜 업그레이드를 진행합니다. 비트코인 캐시 네트워크를 사용하는 개인과 비즈니스는 본인의 소프트웨어가 최신 버전과 동일한지 주기적으로 확인하세요."
         }
       ]
     },
     "2a32bfd2b07e1aedb4e9f561396ebd1b": {
       "translations": [
         {
-          "translation": "the roadmap"
+          "translation": "로드맵"
         }
       ]
     },
@@ -1597,6 +1597,20 @@
         }
       ]
     },
+    "9f2f94996c5fa9bcc7c945c8200997d3": {
+      "translations": [
+        {
+          "translation": "스크노 시그니처"
+        }
+      ]
+    },
+    "eae6be17343c05ce1b36367adc3a5af1": {
+      "translations": [
+        {
+          "translation": "(batched signature validation)"
+        }
+      ]
+    },
     "f42b22638fe3189bafb4aaa20015143d": {
       "translations": [
         {
@@ -1608,20 +1622,6 @@
       "translations": [
         {
           "translation": "(그래핀  또는 다른 것)"
-        }
-      ]
-    },
-    "2b7d19f35c712e8a70ec7c74aee63cb4": {
-      "translations": [
-        {
-          "translation": "Merklix-Metadata Tree"
-        }
-      ]
-    },
-    "94e6f38059317000f2018ee6cea4954c": {
-      "translations": [
-        {
-          "translation": "(확장 가능한 블록 프로세싱)"
         }
       ]
     },
@@ -1639,17 +1639,17 @@
         }
       ]
     },
-    "9f2f94996c5fa9bcc7c945c8200997d3": {
+    "2b7d19f35c712e8a70ec7c74aee63cb4": {
       "translations": [
         {
-          "translation": "스크노 시그니처"
+          "translation": "Merklix-Metadata Tree"
         }
       ]
     },
-    "eae6be17343c05ce1b36367adc3a5af1": {
+    "94e6f38059317000f2018ee6cea4954c": {
       "translations": [
         {
-          "translation": "(batched signature validation)"
+          "translation": "(확장 가능한 블록 프로세싱)"
         }
       ]
     },
