@@ -10,6 +10,8 @@ import LinkIcon from "assets/icons/link.svg"
 import Countdown, { zeroPad } from "react-countdown"
 import { ACTIVATION_TIMESTAMP } from "global/upgrade-date.js"
 import Network from "assets/images/network.png"
+import { globalHistory } from "@reach/router"
+import locales from "i18n/locales"
 
 const CountdownClock = ({ days, hours, minutes, seconds, completed }) => {
   if (completed) {
@@ -93,10 +95,25 @@ const CountdownClock = ({ days, hours, minutes, seconds, completed }) => {
 }
 
 const AnnouncementBar = () => {
+  const location = globalHistory.location.pathname
+  const landingpages = Object.entries(locales).map(([_, locale]) => {
+    let link = "/"
+    if (locale.slug) {
+      link += locale.slug + "/"
+    }
+    return link
+  })
+  const bannerexpand = landingpages.some(function (slugs) {
+    return slugs === location
+  })
+  let eventkey = "1"
+  if (bannerexpand) {
+    eventkey = "0"
+  }
   return (
     <Accordion
       className={S.accordionSection}
-      defaultActiveKey="0"
+      defaultActiveKey={eventkey}
       style={{ backgroundImage: `url(${Network})` }}
     >
       <Accordion.Toggle as={S.accordionSection} eventKey="0">
