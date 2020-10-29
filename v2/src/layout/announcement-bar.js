@@ -106,7 +106,7 @@ const AnnouncementBar = () => {
   const bannerexpand = landingpages.some(function (slugs) {
     return slugs === location
   })
-  let eventkey = "1"
+  let eventkey = ""
   if (bannerexpand) {
     eventkey = "0"
   }
