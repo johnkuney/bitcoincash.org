@@ -337,6 +337,13 @@
         }
       ]
     },
+    "fed41022d39d1414507c1e2cda827436": {
+      "translations": [
+        {
+          "translation": "Upgrade: Snelgids"
+        }
+      ]
+    },
     "2a854a9d90f8402de7ce2e1f5fb71596": {
       "translations": [
         {
@@ -935,21 +942,21 @@
     "a1781928fa12a00070966ea0c6a95358": {
       "translations": [
         {
-          "translation": "An open source web wallet to hack and white label for your own application."
+          "translation": "Een open source web-portemonnee klaar voor aanpassing of rebranding voor uw eigen applicatie."
         }
       ]
     },
     "ebe89bae9dc52aa96ae2f5cc90c7fb4f": {
       "translations": [
         {
-          "translation": "Get started quick with example code and walk-through videos for working with Bitcoin Cash and SLP Tokens."
+          "translation": "Begin snel met voorbeeld code en walkthrough-video's voor het werken met Bitcoin Cash en SLP-tokens"
         }
       ]
     },
     "4b0ed5ed5ac68ee9db8f0a3df6cb48c4": {
       "translations": [
         {
-          "translation": "From basic conecepts to advanced topics, a range of documentation and videos for developers interested in programmable money."
+          "translation": "Van basis concepten to gevorderde onderwerpen, een documentatie- en videocollectie voor ontwikkelaars met interesse in programmeerbaar geld."
         }
       ]
     },
@@ -2251,7 +2258,7 @@
     "f6d89e208079c14b36796e6b12efe477": {
       "translations": [
         {
-          "translation": "Upgrade: Quick Guide"
+          "translation": "Upgrade: Snelgids"
         }
       ]
     },
